@@ -1,0 +1,30 @@
+{
+	"id": "dnd4eja",
+	"title": "日本語化（D&D4e）",
+	"description": "FVTT用D&D4eの翻訳ファイル",
+	"version": "0.1",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "11"
+	},
+	"author": "shoki, りゅみ",
+	"languages": [
+		{
+			"lang": "ja",
+			"system": "dnd4e",
+			"name": "日本語",
+			"path": "lang/ja.json"
+		}
+	],
+	"styles" : ["./dnd4e.css"],
+	"dependencies": [
+		{
+			"id": "lib-wrapper",
+			"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+			"type": "module"
+		}
+	],
+	"url" : "https://github.com/shoki-yui/dnd4eja",
+	"download" : "https://github.com/shoki-yui/dnd4eja/releases/download/0.2/dnd4eja-0.2.zip",
+	"manifest" : "https://github.com/shoki-yui/dnd4eja/releases/latest/download/module.json"
+}

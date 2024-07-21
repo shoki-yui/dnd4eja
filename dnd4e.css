@@ -1,0 +1,11 @@
+.dnd4e.sheet .sheet-header .summary-level label {
+	font-size: 18px!important;
+}
+
+.dnd4e.sheet.actor .attribute-name, .dnd4e.sheet.actor .resource-name {
+    font-size: 16px;
+}
+
+.dnd4e .section--utilities {
+    font-size: 13px;
+}
